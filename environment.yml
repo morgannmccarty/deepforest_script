@@ -8,4 +8,4 @@ dependencies:
   - torchvision
   - deepforest
   - pip:
-      - albucore
+      - albumentations

@@ -1,0 +1,11 @@
+name: deepforest
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - torchvision
+  - deepforest
+  - pip:
+      - albucore
